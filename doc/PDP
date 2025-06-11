@@ -1,7 +1,22 @@
 LO1: The student plans and executes a project in their track at level 2 of the HBO-i framework regarding autonomy and complexity, in an agile way.
-
 LO1 in my own words: 
-This semester I want to take an active part in a group project regarding project 4 embedded systems. For this project we are creating a gateway system for a parking garage. This project will be done mostly individually/with my group, while still having some guidance of the teachers. By making use of different tools like Github, Whatsapp and Teams we will easily be able to communicate with one another aswell as work on the project at the same time. I will also do a lot of individual work this project by coding from home/taking our components home and working from there. Each week we will start by having a quick scrum meeting, explaining what we have done last week and what we are going to do this week. I will be working on my analyzing and problem-solving skills, as well as improving the way I work with others. This will be done by designing our system and researching the components we might need.
+This semester I want to take an active part in a group project regarding project 4 embedded systems. For this project we are creating a gateway system for a parking garage, which doesn’t require any input from the driver of the vehicle. I will be working on my decision making, analyzing and problem-solving skills. This will be done by designing our system and researching the components we might need, fixing any problems we might run into along the way and making difficult decisions which lead to a successful system. Another skill I want to improve is my communication with group members. The project is going to be done with reasonable independence by myself and my other group member, with some guidance of the teachers when necessary. This will be done in an agile way by making use of weekly scrum meetings and checking in with the team regularly.
+
+My Plan: 
+Week 4-6: Researching and discussing the components we need for the system
+Personal goals: By researching and ordering the components I will work on my analyzing skills as well as my decision making skills. Working on these skills is done by analyzing the gate system, thinking of what components we need. After which we compare our options by looking at the available \suppliers/ and decide on the best ones for our system.
+
+Week 7: Making the project charter, giving project pitches
+Personal goals: Working on the \project charter/ further increases my analyzing skill. In order to have a good project charter you need to have a good understanding of what you want your project to look like, and you need to make difficult decisions on what is possible to achieve and what isn’t. These decisions are made by us with only minor assistance of the teachers, which helps improve and show my independence.
+
+Week 8 & 9 (Project week): Working out project details, Components, figure out dimensions of the parking lot
+Personal goals: These weeks we will make the final decisions on the components, as well as the size of the system. This helps me work on my decision making skills as well as my analyzing skills.
+
+Week 10, 12 & 13: Coding with esp board, printing/making parking lot barriers
+Personal goals: These weeks we will start with coding, which will result in a lot of problems that need to be fixed. This helps me improve my problem solving abilities. By analyzing the data sheets that come with each of our components we will figure out how to connect the components and I will improve my analyzing skills.
+
+Week 15, 16 & 17 (Project week): Coding with and ordering new motion detectors, 3d printing the poles for LEDs and 3d printing the case for the motors, coding with the LEDs and button
+Personal goals: We made the decision to 3d print cases for the components, improving the quality of the system. We analyzed the design of the components and solved one the biggest problems we had, improving the skills in both.
 
 
 LO2: The student demonstrates professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
@@ -10,46 +25,29 @@ LO2 in my own words:
 This project I will be working on my communication with group member and teachers, as well as show that I am professional with the work that I do. The main focus of these professional skills are aimed towards the following four catagories: future-oriented organization, investigative ability, personal leadership, and targeted interaction. 
 Future-oriented organization means that I should be adaptable and that I should be able to think ahead into the future. This will be shown by researching the components we need for this project. We need to think ahead of time which components we want to use for the project and which ones are adaptable with one another. I will show my adaptability by working with components and resources I have never worked with before.
 My investigative ability will also be shown when ordering the component and also while designing our gate system. While designing and creating the system we will undoubtedly run into many issues, to which I want to adapt in such a way so that I can overcome them. Adapting to these problems will be done by researching these issue and discussing them with my other group member and teachers if necessary.
-By setting goals each week and discussing these goals with my group member I will work on my personal leadership. By setting goals for myself I will keep myself and my professionalism in check, aswell as give me a clear overview on how much I have done each week.
-Lastly I will also be working on my targeted interaction (communication with the stakeholders/teachers). This will mostly be done in person by talking to the teachers directly, but this also includes emails and messages. Each week we will have a short meeting with the teachers and other teams to discuss what we have done last week, and what we are planning on doing the current week. With this communication it will be easier to check how we are doing compared to other teams, aswell as ask any question we might have.
+By setting goals each week and discussing these goals with my group member I will work on my personal leadership. By setting goals for myself I will keep myself and my professionalism in check, as well as give me a clear overview on how much I have done each week.
+Lastly I will also be working on my targeted interaction (communication with the stakeholders/teachers). This will mostly be done in person by talking to the teachers directly, but this also includes emails and messages. Each week we will have a short meeting with the teachers and other teams to discuss what we have done last week, and what we are planning on doing the current week. With this communication it will be easier to check how we are doing compared to other teams, as well as ask any question we might have.
 
-My Plan: 
-Week 4-6: Initial Personal Development Plan (PDP) – v1, Looking for the components we might need, researching possible motors, sensors, devboards, etc, making and practicing pitches
-Personal goals: I worked on my analyzing skills and my investigative ability by researching the components we need. By researching the specific components these skills improved a lot. I now have a better understanding on where to look on the internet, and how to find the answer to certain questions I might have. These weeks as well as every other week I also worked on my targeted interaction by having meetings with the teachers every week (I will not be mentioning this at every week).
+My plan:
 
-Week 7: Making the project charter, giving project pitches
-Personal goals: This week I worked on my personal leadership by setting multiple goals regarding the charter and the project pitches. These goals include how much work I would get done for the week, and also how our group should work on the project charter.
+Week 4-6: Researching components, team meetings
+I will work on my investigative ability by researching the \components/ we need for the system. Another skill I will greatly improve is my future-oriented organization. While researching and analyzing the components I have to think carefully about the items we might need, and how they are going to work in the system. I improved my personal leadership skills by setting goals for these weeks. These goals include holding a daily scrum meeting to improve my communication skills.
+These weeks as well as every other week I also worked on my targeted interaction by having meetings with the teachers every week (I will not be mentioning this at every week).
 
-
-
-Week 8 & 9 (Project week): Intermediate PDP v2, Working out project details, Components, Gathering additional project necessities, getting the esp board + cabel, figure out dimensions of the parking lot
-
-Personal goals: These weeks I worked a lot on my future-oriented organization. I thought ahead of how I wanted the system to look in the end, what items we might need to reach my desired system and discussed my ideas with my group member. I also set multiple goals for myself these project weeks to work on my personal leadership. These goals included how much I wanted to get done these project weeks, working on my communication with the group and improving my analyzing abilities.
+Week 7: Project charter, pitches
+This week I will work on my personal leadership by setting multiple goals regarding the charter and the project pitches. These goals include how much work I want get done regarding the charter this week, and improving my presenting skills. By communicating these goals with my group member he will have a better understanding on the things I want to work on, and I will improve my communication and targeted interaction skills.
 
 
-Week 10: Coding with esp board, Printing/making parking lot parts, PDP individual meetings
+Week 8 & 9 (Project week): Working out project details, Components, Gathering additional project necessities, getting the esp board + cabel, figure out dimensions of the parking lot
+
+Personal goals: These weeks I will work a lot on my future-oriented organization. I will think ahead on how I wanted the system to look in the end, what items we might need to reach my desired system. I will also set multiple goals for myself these project weeks to work on my personal leadership. These goals include how much I wanted to get done these project weeks, working on my communication with the group and improving my analyzing and researching abilities.
+
+Week 10, 12, 13 & 14: Coding with esp board, researching how to set C programs up in multiple files, printing/making barriers
+Personal goals: I will work on my investigative ability and personal leadership by going through a \C++ beginner course/ and learning the methods I didn’t fully understand yet. These weeks we are also planning on designing and printing the barriers which should stop the car. This requires me to think ahead of time, improving my future-oriented organization skills.
+
+Week 15, 16 & 17 (Project week): Coding with and ordering new motion detectors, figuring out the layout and design of the system, 3d printing the poles for LEDs and 3d printing the case for the motors, coding with the LEDs and button, finalizing the code for the sensors, motors and LEDs, Working on the code for the button, retrieving the 3d printed objects and removing them from their braces
 Personal goals: 
-
-Week 11 (Holiday): -
-Personal goals: -
-
-Week 12: Coding with esp board, Printing/making parking lot parts
-Personal goals: 
-
-Week 13: Finding cars we can use, painting the base plate
-Personal goals: 
-
-Week 14: Fixing problems with motors, researching how to set C programs up in multiple files, 3d printing the barriers
-Personal goals: 
-
-
-Week 15, 16 & 17: Coding with and ordering new motion detectors, figuring out the layout and design of the system, 3d printing the poles for LEDs and 3d printing the case for the motors, coding with the LEDs and button, finalizing the code for the sensors, motors and LEDs, Working on the code for the button, retrieving the 3d printed objects and removing them from their braces
-Personal goals: 
-
-Week 18: Putting everything together and making sure the final product works
-
-Personal goals: 
-
+These last project weeks I will be working on 
 
 
 
