@@ -55,7 +55,6 @@ This week I will work on my personal leadership by setting multiple goals regard
 
 
 Week 8 & 9 (Project week): Working out project details, Components, Gathering additional project necessities, getting the esp board + cabel, figure out dimensions of the parking lot<br>
-
 Personal goals: These weeks I will work a lot on my future-oriented organization. I will think ahead on how I wanted the system to look in the end, what items we might need to reach my desired system. I will also set multiple goals for myself these project weeks to work on my personal leadership. These goals include how much I wanted to get done these project weeks, working on my communication with the group and improving my analyzing and researching abilities.
 
 Week 10, 12, 13 & 14: Coding with esp board, researching how to set C programs up in multiple files, printing/making barriers<br>
