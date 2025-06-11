@@ -32,7 +32,7 @@ LO2:
 LO2: The student demonstrates professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.<br>
 
 LO2 in my own words: <br>
-This project I will be working on my communication with group member and teachers, as well as show that I am professional with the work that I do. The main focus of these professional skills are aimed towards the following four catagories: future-oriented organization, investigative ability, personal leadership, and targeted interaction. <br>
+This project I will be working on my communication with group member and teachers, as well as show that I am professional with the work that I do. The main focus of these professional skills are aimed towards the following four categories: future-oriented organization, investigative ability, personal leadership, and targeted interaction. <br>
 
 Future-oriented organization means that I should be adaptable and that I should be able to think ahead into the future. This will be shown by researching the components we need for this project. We need to think ahead of time which components we want to use for the project and which ones are adaptable with one another. I will show my adaptability by working with components and resources I have never worked with before.<br>
 
@@ -51,10 +51,10 @@ I will work on my investigative ability by researching the [components](https://
 These weeks as well as every other week I also worked on my targeted interaction by having meetings with the teachers every week (I will not be mentioning this at every week).
 
 Week 7: Project charter, pitches<br>
-This week I will work on my personal leadership by setting multiple goals regarding the charter and the [project pitches](https://github.com/FontysVenlo/prj4e-individual-respository-SvenVercoulen/blob/main/doc/PRJ4E%20Pitch.docx). These goals include how much work I want get done regarding the charter this week, and improving my presenting skills. By communicating these goals with my group member he will have a better understanding on the things I want to work on, and I will improve my communication and targeted interaction skills.
+This week I will work on my personal leadership by setting multiple goals regarding the charter and the [project pitches](https://github.com/FontysVenlo/prj4e-individual-respository-SvenVercoulen/blob/main/doc/PRJ4E%20Pitch.docx). These goals include how much work I want to get done regarding the charter this week, and improving my presenting skills. By communicating these goals with my group member he will have a better understanding on the things I want to work on, and I will improve my communication and targeted interaction skills.
 
 
-Week 8 & 9 (Project week): Working out project details, Components, Gathering additional project necessities, getting the esp board + cabel, figure out dimensions of the parking lot<br>
+Week 8 & 9 (Project week): Working out project details, Components, Gathering additional project necessities, getting the esp board + cable, figure out dimensions of the parking lot<br>
 Personal goals: These weeks I will work a lot on my future-oriented organization. I will think ahead on how I wanted the system to look in the end, what items we might need to reach my desired system. I will also set multiple goals for myself these project weeks to work on my personal leadership. These goals include how much I wanted to get done these project weeks, working on my communication with the group and improving my analyzing and researching abilities.
 
 Week 10, 12, 13 & 14: Coding with esp board, researching how to set C programs up in multiple files, printing/making barriers<br>
@@ -62,7 +62,7 @@ Personal goals: I will work on my investigative ability and personal leadership 
 
 Week 15, 16 & 17 (Project week): Coding with and ordering new motion detectors, figuring out the layout and [design of the system](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-e04/blob/main/Sketch.jpg), 3d printing the poles for LEDs and 3d printing the case for the motors, coding with the LEDs and button, finalizing the code for the sensors, motors and LEDs, Working on the code for the button, retrieving the 3d printed objects and removing them from their braces<br>
 Personal goals: 
-These last project weeks I will be working on my communication skills, my investigative ability, my personal leadership and my targeted interaction skills. This will be done by making clear goals and discussing them with my team. I will be investigating any problems that might arise with our current setup and correct them accordingly, improving my investigative abilities. Lastly I will be working on my targeted interaction by having clear communication with buth my team and teachers these last couple of weeks.
+These last project weeks I will be working on my communication skills, my investigative ability, my personal leadership and my targeted interaction skills. This will be done by making clear goals and discussing them with my team. I will be investigating any problems that might arise with our current setup and correct them accordingly, improving my investigative abilities. Lastly I will be working on my targeted interaction by having clear communication with both my team and teachers these last couple of weeks.
 
 
 
