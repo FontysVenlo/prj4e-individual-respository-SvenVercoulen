@@ -1,8 +1,8 @@
-LO1: The student plans and executes a project in their track at level 2 of the HBO-i framework regarding autonomy and complexity, in an agile way. 
-LO1 in my own words: 
+LO1: The student plans and executes a project in their track at level 2 of the HBO-i framework regarding autonomy and complexity, in an agile way. <br>
+LO1 in my own words: <br>
 This semester I want to take an active part in a group project regarding project 4 embedded systems. For this project we are creating a gateway system for a parking garage, which doesn’t require any input from the driver of the vehicle. I will be working on my decision making, analyzing and problem-solving skills. This will be done by designing our system and researching the components we might need, fixing any problems we might run into along the way and making difficult decisions which lead to a successful system. Another skill I want to improve is my communication with group members. The project is going to be done with reasonable independence by myself and my other group member, with some guidance of the teachers when necessary. This will be done in an agile way by making use of weekly scrum meetings and checking in with the team regularly.
 
-My Plan: 
+My Plan: <br>
 Week 4-6: Researching and discussing the components we need for the system
 Personal goals: By researching and ordering the components I will work on my analyzing skills as well as my decision making skills. Working on these skills is done by analyzing the gate system, thinking of what components we need. After which we compare our options by looking at the available \suppliers/ and decide on the best ones for our system.
 
@@ -19,16 +19,16 @@ Week 15, 16 & 17 (Project week): Coding with and ordering new motion detectors, 
 Personal goals: We made the decision to 3d print cases for the components, improving the quality of the system. We analyzed the design of the components and solved one the biggest problems we had, improving the skills in both.
 
 
-LO2: The student demonstrates professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
+LO2: The student demonstrates professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.<br>
 
-LO2 in my own words: 
+LO2 in my own words: <br>
 This project I will be working on my communication with group member and teachers, as well as show that I am professional with the work that I do. The main focus of these professional skills are aimed towards the following four catagories: future-oriented organization, investigative ability, personal leadership, and targeted interaction. 
 Future-oriented organization means that I should be adaptable and that I should be able to think ahead into the future. This will be shown by researching the components we need for this project. We need to think ahead of time which components we want to use for the project and which ones are adaptable with one another. I will show my adaptability by working with components and resources I have never worked with before.
 My investigative ability will also be shown when ordering the component and also while designing our gate system. While designing and creating the system we will undoubtedly run into many issues, to which I want to adapt in such a way so that I can overcome them. Adapting to these problems will be done by researching these issue and discussing them with my other group member and teachers if necessary.
 By setting goals each week and discussing these goals with my group member I will work on my personal leadership. By setting goals for myself I will keep myself and my professionalism in check, as well as give me a clear overview on how much I have done each week.
 Lastly I will also be working on my targeted interaction (communication with the stakeholders/teachers). This will mostly be done in person by talking to the teachers directly, but this also includes emails and messages. Each week we will have a short meeting with the teachers and other teams to discuss what we have done last week, and what we are planning on doing the current week. With this communication it will be easier to check how we are doing compared to other teams, as well as ask any question we might have.
 
-My plan:
+My plan:<br>
 
 Week 4-6: Researching components, team meetings
 I will work on my investigative ability by researching the \components/ we need for the system. Another skill I will greatly improve is my future-oriented organization. While researching and analyzing the components I have to think carefully about the items we might need, and how they are going to work in the system. I improved my personal leadership skills by setting goals for these weeks. These goals include holding a daily scrum meeting to improve my communication skills.
@@ -47,8 +47,7 @@ Personal goals: I will work on my investigative ability and personal leadership 
 
 Week 15, 16 & 17 (Project week): Coding with and ordering new motion detectors, figuring out the layout and design of the system, 3d printing the poles for LEDs and 3d printing the case for the motors, coding with the LEDs and button, finalizing the code for the sensors, motors and LEDs, Working on the code for the button, retrieving the 3d printed objects and removing them from their braces
 Personal goals: 
-These last project weeks I will be working on 
-
+These last project weeks I will be working on my communication skills, my investigative ability, my personal leadership and my targeted interaction skills. This will be done by making clear goals and discussing them with my team. I will be investigating any problems that might arise with our current setup and correct them accordingly, improving my investigative abilities. Lastly I will be working on my targeted interaction by having clear communication with buth my team and teachers these last couple of weeks.
 
 
 
