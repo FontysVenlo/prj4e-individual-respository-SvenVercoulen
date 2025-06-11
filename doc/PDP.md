@@ -1,7 +1,12 @@
+LO1:
+-
 LO1: The student plans and executes a project in their track at level 2 of the HBO-i framework regarding autonomy and complexity, in an agile way. <br>
+
 LO1 in my own words: <br>
 This semester I want to take an active part in a group project regarding project 4 embedded systems. For this project we are creating a gateway system for a parking garage, which doesn’t require any input from the driver of the vehicle. I will be working on my decision making, analyzing and problem-solving skills. This will be done by designing our system and researching the components we might need, fixing any problems we might run into along the way and making difficult decisions which lead to a successful system. Another skill I want to improve is my communication with group members. The project is going to be done with reasonable independence by myself and my other group member, with some guidance of the teachers when necessary. This will be done in an agile way by making use of weekly scrum meetings and checking in with the team regularly.
-
+<br>
+<br>
+<br>
 My Plan: <br>
 
 Week 4-6: Researching and discussing the components we need for the system
@@ -18,8 +23,12 @@ Personal goals: These weeks we will start with coding, which will result in a lo
 
 Week 15, 16 & 17 (Project week): Coding with and ordering new motion detectors, 3d printing the poles for LEDs and 3d printing the case for the motors, coding with the LEDs and button<br>
 Personal goals: We made the decision to 3d print cases for the components, improving the quality of the system. We analyzed the design of the components and solved one the biggest problems we had, improving the skills in both.
+<br>
+<br>
+<br>
 
-
+LO2:
+-
 LO2: The student demonstrates professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.<br>
 
 LO2 in my own words: <br>
@@ -32,7 +41,9 @@ My investigative ability will also be shown when ordering the component and also
 By setting goals each week and discussing these goals with my group member I will work on my personal leadership. By setting goals for myself I will keep myself and my professionalism in check, as well as give me a clear overview on how much I have done each week.<br>
 
 Lastly I will also be working on my targeted interaction (communication with the stakeholders/teachers). This will mostly be done in person by talking to the teachers directly, but this also includes emails and messages. Each week we will have a short meeting with the teachers and other teams to discuss what we have done last week, and what we are planning on doing the current week. With this communication it will be easier to check how we are doing compared to other teams, as well as ask any question we might have.
-
+<br>
+<br>
+<br>
 My plan:<br>
 
 Week 4-6: Researching components, team meetings<br>
