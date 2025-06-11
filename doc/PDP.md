@@ -4,10 +4,10 @@ This semester I want to take an active part in a group project regarding project
 
 My Plan: <br>
 Week 4-6: Researching and discussing the components we need for the system
-Personal goals: By researching and ordering the components I will work on my analyzing skills as well as my decision making skills. Working on these skills is done by analyzing the gate system, thinking of what components we need. After which we compare our options by looking at the available \suppliers/ and decide on the best ones for our system.
+Personal goals: By researching and ordering the components I will work on my analyzing skills as well as my decision making skills. Working on these skills is done by analyzing the gate system, thinking of what components we need. After which we compare our options by looking at the available [suppliers](https://canvas.fontys.nl/courses/26466/files/3454873?module_item_id=907118) and decide on the best ones for our system.
 
 Week 7: Making the project charter, giving project pitches
-Personal goals: Working on the \project charter/ further increases my analyzing skill. In order to have a good project charter you need to have a good understanding of what you want your project to look like, and you need to make difficult decisions on what is possible to achieve and what isn’t. These decisions are made by us with only minor assistance of the teachers, which helps improve and show my independence.
+Personal goals: Working on the [project charter]() further increases my analyzing skill. In order to have a good project charter you need to have a good understanding of what you want your project to look like, and you need to make difficult decisions on what is possible to achieve and what isn’t. These decisions are made by us with only minor assistance of the teachers, which helps improve and show my independence.
 
 Week 8 & 9 (Project week): Working out project details, Components, figure out dimensions of the parking lot
 Personal goals: These weeks we will make the final decisions on the components, as well as the size of the system. This helps me work on my decision making skills as well as my analyzing skills.
@@ -31,7 +31,7 @@ Lastly I will also be working on my targeted interaction (communication with the
 My plan:<br>
 
 Week 4-6: Researching components, team meetings
-I will work on my investigative ability by researching the \components/ we need for the system. Another skill I will greatly improve is my future-oriented organization. While researching and analyzing the components I have to think carefully about the items we might need, and how they are going to work in the system. I improved my personal leadership skills by setting goals for these weeks. These goals include holding a daily scrum meeting to improve my communication skills.
+I will work on my investigative ability by researching the [components](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-e04/blob/main/Prj4E%20Components%20Group%204.xlsx) we need for the system. Another skill I will greatly improve is my future-oriented organization. While researching and analyzing the components I have to think carefully about the items we might need, and how they are going to work in the system. I improved my personal leadership skills by setting goals for these weeks. These goals include holding a daily scrum meeting to improve my communication skills.
 These weeks as well as every other week I also worked on my targeted interaction by having meetings with the teachers every week (I will not be mentioning this at every week).
 
 Week 7: Project charter, pitches
@@ -43,7 +43,7 @@ Week 8 & 9 (Project week): Working out project details, Components, Gathering ad
 Personal goals: These weeks I will work a lot on my future-oriented organization. I will think ahead on how I wanted the system to look in the end, what items we might need to reach my desired system. I will also set multiple goals for myself these project weeks to work on my personal leadership. These goals include how much I wanted to get done these project weeks, working on my communication with the group and improving my analyzing and researching abilities.
 
 Week 10, 12, 13 & 14: Coding with esp board, researching how to set C programs up in multiple files, printing/making barriers
-Personal goals: I will work on my investigative ability and personal leadership by going through a \C++ beginner course/ and learning the methods I didn’t fully understand yet. These weeks we are also planning on designing and printing the barriers which should stop the car. This requires me to think ahead of time, improving my future-oriented organization skills.
+Personal goals: I will work on my investigative ability and personal leadership by going through a [C++ beginner course](https://www.codecademy.com/catalog/language/c-plus-plus) and learning the methods I didn’t fully understand yet. These weeks we are also planning on designing and printing the barriers which should stop the car. This requires me to think ahead of time, improving my future-oriented organization skills.
 
 Week 15, 16 & 17 (Project week): Coding with and ordering new motion detectors, figuring out the layout and design of the system, 3d printing the poles for LEDs and 3d printing the case for the motors, coding with the LEDs and button, finalizing the code for the sensors, motors and LEDs, Working on the code for the button, retrieving the 3d printed objects and removing them from their braces
 Personal goals: 
