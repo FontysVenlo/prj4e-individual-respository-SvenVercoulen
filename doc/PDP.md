@@ -3,6 +3,7 @@ LO1 in my own words: <br>
 This semester I want to take an active part in a group project regarding project 4 embedded systems. For this project we are creating a gateway system for a parking garage, which doesn’t require any input from the driver of the vehicle. I will be working on my decision making, analyzing and problem-solving skills. This will be done by designing our system and researching the components we might need, fixing any problems we might run into along the way and making difficult decisions which lead to a successful system. Another skill I want to improve is my communication with group members. The project is going to be done with reasonable independence by myself and my other group member, with some guidance of the teachers when necessary. This will be done in an agile way by making use of weekly scrum meetings and checking in with the team regularly.
 
 My Plan: <br>
+
 Week 4-6: Researching and discussing the components we need for the system
 Personal goals: By researching and ordering the components I will work on my analyzing skills as well as my decision making skills. Working on these skills is done by analyzing the gate system, thinking of what components we need. After which we compare our options by looking at the available [suppliers](https://canvas.fontys.nl/courses/26466/files/3454873?module_item_id=907118) and decide on the best ones for our system.
 
@@ -23,9 +24,13 @@ LO2: The student demonstrates professional skills at level 2 in the focus areas:
 
 LO2 in my own words: <br>
 This project I will be working on my communication with group member and teachers, as well as show that I am professional with the work that I do. The main focus of these professional skills are aimed towards the following four catagories: future-oriented organization, investigative ability, personal leadership, and targeted interaction. <br>
+
 Future-oriented organization means that I should be adaptable and that I should be able to think ahead into the future. This will be shown by researching the components we need for this project. We need to think ahead of time which components we want to use for the project and which ones are adaptable with one another. I will show my adaptability by working with components and resources I have never worked with before.<br>
+
 My investigative ability will also be shown when ordering the component and also while designing our gate system. While designing and creating the system we will undoubtedly run into many issues, to which I want to adapt in such a way so that I can overcome them. Adapting to these problems will be done by researching these issue and discussing them with my other group member and teachers if necessary.<br>
+
 By setting goals each week and discussing these goals with my group member I will work on my personal leadership. By setting goals for myself I will keep myself and my professionalism in check, as well as give me a clear overview on how much I have done each week.<br>
+
 Lastly I will also be working on my targeted interaction (communication with the stakeholders/teachers). This will mostly be done in person by talking to the teachers directly, but this also includes emails and messages. Each week we will have a short meeting with the teachers and other teams to discuss what we have done last week, and what we are planning on doing the current week. With this communication it will be easier to check how we are doing compared to other teams, as well as ask any question we might have.
 
 My plan:<br>
