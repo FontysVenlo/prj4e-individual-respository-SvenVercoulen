@@ -9,7 +9,7 @@ This semester I want to take an active part in a group project regarding project
 <br>
 My Plan: <br>
 
-Week 4-6: Researching and discussing the components we need for the system
+Week 4-6: Researching and discussing the components we need for the system<br>
 **Personal goals**: By researching and ordering the components I will work on my analyzing skills as well as my decision making skills. Working on these skills is done by analyzing the gate system, thinking of what components we need. After which we compare our options by looking at the available [suppliers](https://canvas.fontys.nl/courses/26466/files/3454873?module_item_id=907118) and decide on the best ones for our system.
 
 Week 7: Making the project charter, giving project pitches<br>
