@@ -51,7 +51,7 @@ I will work on my investigative ability by researching the [components](https://
 These weeks as well as every other week I also worked on my targeted interaction by having meetings with the teachers every week (I will not be mentioning this at every week).
 
 Week 7: Project charter, pitches<br>
-This week I will work on my personal leadership by setting multiple goals regarding the charter and the project pitches. These goals include how much work I want get done regarding the charter this week, and improving my presenting skills. By communicating these goals with my group member he will have a better understanding on the things I want to work on, and I will improve my communication and targeted interaction skills.
+This week I will work on my personal leadership by setting multiple goals regarding the charter and the [project pitches](https://github.com/FontysVenlo/prj4e-individual-respository-SvenVercoulen/blob/main/doc/PRJ4E%20Pitch.docx). These goals include how much work I want get done regarding the charter this week, and improving my presenting skills. By communicating these goals with my group member he will have a better understanding on the things I want to work on, and I will improve my communication and targeted interaction skills.
 
 
 Week 8 & 9 (Project week): Working out project details, Components, Gathering additional project necessities, getting the esp board + cabel, figure out dimensions of the parking lot<br>
